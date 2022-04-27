@@ -42,7 +42,7 @@ This is a real-world sample, taking a working ASP.NET Core application and enhan
 
 ## Videos
 
-TODO - Link To Videos
+https://www.youtube.com/watch?v=uS6m37jhdqM
 
 ## License
 
